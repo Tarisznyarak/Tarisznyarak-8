@@ -20,3 +20,9 @@ craftingTable.addShaped("ctgui/new/immersiveengineering/crafting/heavy_engineeri
 <recipetype:minecraft:crafting>.removeByName("mekanism:steel_casing");
 <recipetype:minecraft:crafting>.addJsonRecipe("ctgui/new/mekanism/steel_casing_0", {"key":{"c":{"item":"immersiveengineering:component_steel"},"l":{"item":"immersiveengineering:light_engineering"},"i":{"tag":"c:ingots/steel"},"p":{"item":"create:precision_mechanism"},"h":{"item":"immersiveengineering:heavy_engineering"}},"pattern":["cli","php","ilc"],"result":{"id":"mekanism:steel_casing","count":1},"category":"misc","type":"mekanism:mek_data"});
 
+<recipetype:minecraft:crafting>.removeByName("avaritia:crystal_matrix_ingot");
+craftingTable.addShaped("ctgui/new/avaritia/crystal_matrix_ingot_0", <item:avaritia:crystal_matrix_ingot>, [
+    [<item:gtceu:uhv_energy_input_hatch>, <item:avaritia:eternal_singularity>, <item:mekanism:ultimate_induction_cell>],
+    [<item:avaritia:diamond_lattice>, <item:minecraft:nether_star>, <item:avaritia:diamond_lattice>],
+    [<item:mekanism:ultimate_induction_cell>, <item:avaritia:eternal_singularity>, <item:gtceu:uhv_energy_input_hatch>]]);
+

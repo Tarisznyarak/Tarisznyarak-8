@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Tarisznyarak",
+      "uniqueId": "1980a584-4eae-4391-8a8b-ae803f7d52ee"
+    },
+    "time": 1752171883500,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/IBYRbJ2sb8"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Tarisznyarak",
+      "uniqueId": "1980a584-4eae-4391-8a8b-ae803f7d52ee"
+    },
+    "time": 1752170259933,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4AThinUG74"
+    }
+  }
+]
