@@ -25,7 +25,7 @@
 	# Range: 0.0 ~ 1.0
 	charredBonesWeight = 1.0
 	#Enable generation of ice chunks
-	enableIceChunks = true
+	enableIceChunks = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	iceChunksWeight = 1.0
@@ -105,7 +105,7 @@
 	# Range: 0.0 ~ 1.0
 	reedsWeight = 1.0
 	#Enable generation of icicles
-	enableIcicles = true
+	enableIcicles = false
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
 	iciclesWeight = 1.0
