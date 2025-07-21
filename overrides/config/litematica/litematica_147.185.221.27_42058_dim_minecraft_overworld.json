@@ -1,0 +1,88 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\Games\\CurseForge\\Instances\\Tarisznyarák 8 finalVER\\schematics\\19024.litematic",
+        "name": "Factory",
+        "origin": [
+          799,
+          63,
+          -2230
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "selected_region": "Factory",
+        "placements": [
+          {
+            "name": "Factory",
+            "placement": {
+              "pos": [
+                -11,
+                0,
+                0
+              ],
+              "name": "Factory",
+              "rotation": "COUNTERCLOCKWISE_90",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL_BELOW",
+    "axis": "Y",
+    "layer_single": 10,
+    "layer_above": 0,
+    "layer_below": 71,
+    "layer_range_min": 0,
+    "layer_range_max": 4,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          0,
+          0,
+          0
+        ],
+        "pos2": [
+          0,
+          0,
+          0
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

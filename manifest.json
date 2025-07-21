@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Tarisznyarák 8.1",
+  "name": "Tarisznyarák 8.2",
   "version": "",
   "author": "",
   "files": [
@@ -55,8 +55,8 @@
       "required": true
     },
     {
-      "projectID": 250898,
-      "fileID": 6327284,
+      "projectID": 386134,
+      "fileID": 6752899,
       "required": true
     },
     {
@@ -100,8 +100,13 @@
       "required": true
     },
     {
+      "projectID": 912441,
+      "fileID": 6770848,
+      "required": true
+    },
+    {
       "projectID": 422301,
-      "fileID": 6761710,
+      "fileID": 6788663,
       "required": true
     },
     {
@@ -196,7 +201,12 @@
     },
     {
       "projectID": 1091339,
-      "fileID": 6768722,
+      "fileID": 6777431,
+      "required": true
+    },
+    {
+      "projectID": 890405,
+      "fileID": 6792853,
       "required": true
     },
     {
@@ -210,8 +220,13 @@
       "required": true
     },
     {
+      "projectID": 416294,
+      "fileID": 6184623,
+      "required": true
+    },
+    {
       "projectID": 551586,
-      "fileID": 6729682,
+      "fileID": 6790859,
       "required": true
     },
     {
@@ -256,7 +271,7 @@
     },
     {
       "projectID": 693815,
-      "fileID": 6711680,
+      "fileID": 6771224,
       "required": true
     },
     {
@@ -281,7 +296,7 @@
     },
     {
       "projectID": 855414,
-      "fileID": 6718356,
+      "fileID": 6769020,
       "required": true
     },
     {
@@ -291,12 +306,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 6699385,
-      "required": true
-    },
-    {
-      "projectID": 239197,
-      "fileID": 6434161,
+      "fileID": 6791334,
       "required": true
     },
     {
@@ -321,7 +331,7 @@
     },
     {
       "projectID": 527361,
-      "fileID": 6721691,
+      "fileID": 6775364,
       "required": true
     },
     {
@@ -337,6 +347,11 @@
     {
       "projectID": 317716,
       "fileID": 5778461,
+      "required": true
+    },
+    {
+      "projectID": 626676,
+      "fileID": 6260254,
       "required": true
     },
     {
@@ -401,7 +416,7 @@
     },
     {
       "projectID": 448233,
-      "fileID": 6734988,
+      "fileID": 6780238,
       "required": true
     },
     {
@@ -411,7 +426,7 @@
     },
     {
       "projectID": 245506,
-      "fileID": 6736897,
+      "fileID": 6790456,
       "required": true
     },
     {
@@ -471,7 +486,17 @@
     },
     {
       "projectID": 439890,
-      "fileID": 6445614,
+      "fileID": 6773416,
+      "required": true
+    },
+    {
+      "projectID": 238086,
+      "fileID": 5810100,
+      "required": true
+    },
+    {
+      "projectID": 314906,
+      "fileID": 6504893,
       "required": true
     },
     {
@@ -490,13 +515,13 @@
       "required": true
     },
     {
-      "projectID": 404183,
-      "fileID": 5625392,
+      "projectID": 912788,
+      "fileID": 6232632,
       "required": true
     },
     {
-      "projectID": 912788,
-      "fileID": 6232632,
+      "projectID": 404183,
+      "fileID": 5625392,
       "required": true
     },
     {
@@ -507,11 +532,6 @@
     {
       "projectID": 1015100,
       "fileID": 6715463,
-      "required": true
-    },
-    {
-      "projectID": 636608,
-      "fileID": 6476205,
       "required": true
     },
     {
@@ -532,6 +552,11 @@
     {
       "projectID": 268567,
       "fileID": 6486997,
+      "required": true
+    },
+    {
+      "projectID": 910766,
+      "fileID": 6759428,
       "required": true
     },
     {
@@ -560,6 +585,11 @@
       "required": true
     },
     {
+      "projectID": 404468,
+      "fileID": 6119437,
+      "required": true
+    },
+    {
       "projectID": 348521,
       "fileID": 5729127,
       "required": true
@@ -570,8 +600,18 @@
       "required": true
     },
     {
+      "projectID": 404465,
+      "fileID": 6711324,
+      "required": true
+    },
+    {
       "projectID": 583345,
       "fileID": 6315149,
+      "required": true
+    },
+    {
+      "projectID": 444699,
+      "fileID": 6779573,
       "required": true
     },
     {

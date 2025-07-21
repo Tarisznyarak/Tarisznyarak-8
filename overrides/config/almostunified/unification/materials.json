@@ -3,9 +3,10 @@
     "minecraft",
     "create",
     "crafttweaker",
-    "gregtech",
     "immersiveengineering",
-    "mekanism"
+    "mekanism",
+    "gtceu-1.21.1-7.0.2"
+    
   ],
   "priority_overrides": {},
   "stone_variants": [
