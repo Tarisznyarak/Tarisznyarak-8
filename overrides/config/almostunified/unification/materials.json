@@ -1,11 +1,10 @@
 {
   "mod_priorities": [
     "minecraft",
+    "kubejs",
     "create",
-    "crafttweaker",
     "immersiveengineering",
-    "mekanism",
-    "gtceu-1.21.1-7.0.2"
+    "mekanism"
     
   ],
   "priority_overrides": {},
